@@ -1,6 +1,4 @@
-<p>
-  <img src="../logo.svg" alt="Octothorpe" width="320" />
-</p>
+<img src="../logo.svg" alt="Octothorpe" width="320" />
 
 # Privacy Policy for Memoryveil
 
