@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <img src="../logo.svg" alt="Octothorpe" width="320" />
 </p>
 
