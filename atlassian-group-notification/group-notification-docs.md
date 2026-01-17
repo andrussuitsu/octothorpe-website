@@ -8,7 +8,7 @@ Group Notification enables you to @mention all members of a group at once in Con
 
 ## Installation
 
-1. Go to the [Atlassian Marketplace listing](#) *(update with your actual link)*
+1. Go to the [Atlassian Marketplace listing](https://octothorpe.ee)
 2. Click **Get it now** or **Try it free**
 3. Select the Confluence or Jira instance where you want to install the app
 4. Confirm the installation and approve the required permissions
@@ -117,7 +117,7 @@ Group Notification runs entirely on Atlassian's Forge platform. No data leaves A
 - **No data storage** — The app does not store any personal data
 - **No data export** — Data never leaves Atlassian's infrastructure
 
-For full details, see our [Privacy Policy](#) *(link to your privacy policy)*.
+For full details, see our [Privacy Policy](PRIVACY_POLICY.md).
 
 ---
 
@@ -125,8 +125,8 @@ For full details, see our [Privacy Policy](#) *(link to your privacy policy)*.
 
 Having issues or questions?
 
-- **Email:** [YOUR EMAIL]
-- **Website:** [YOUR WEBSITE]
+- **Email:** info@octothorpe.ee
+- **Website:** https://octothorpe.ee
 
 We typically respond within 1-2 business days.
 
