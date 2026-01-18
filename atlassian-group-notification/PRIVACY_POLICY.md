@@ -1,13 +1,13 @@
-# Privacy Policy for Group Notification
+# Privacy Policy for Group Notification for Jira
 
-**Effective Date:** January 17, 2026  
-**Last Updated:** January 17, 2026
+**Effective Date:** January 18, 2026
+**Last Updated:** January 18, 2026
 
 ---
 
 ## 1. Introduction
 
-This Privacy Policy describes how Octothorpe OÜ ("we", "us", or "our") handles information in connection with the Group Notification application ("the App") available on the Atlassian Marketplace.
+This Privacy Policy describes how Octothorpe OÜ ("we", "us", or "our") handles information in connection with the Group Notification for Jira application ("the App") available on the Atlassian Marketplace.
 
 We are committed to protecting your privacy and being transparent about our data practices. This policy explains what data the App accesses, how it is used, and your rights regarding that data.
 
@@ -15,13 +15,13 @@ We are committed to protecting your privacy and being transparent about our data
 - **Company Name:** Octothorpe OÜ
 - **Location:** Estonia, European Union
 - **Contact Email:** info@octothorpe.ee
-- **Website:** https://octothrope.ee
+- **Website:** https://octothorpe.ee
 
 ---
 
 ## 2. About the App
 
-Group Notification is a Forge application that enables users to @mention all members of a group at once by creating a comment on Confluence pages or Jira issues, effectively providing group notification functionality that Atlassian doesn't offer natively. The App runs entirely on Atlassian's Forge platform and does not operate any external servers or infrastructure.
+Group Notification for Jira is a Forge application that enables users to @mention all members of a group at once by creating a comment on Jira issues, effectively providing group notification functionality that Atlassian doesn't offer natively. The App runs entirely on Atlassian's Forge platform and does not operate any external servers or infrastructure.
 
 ---
 
@@ -35,12 +35,14 @@ To provide its functionality, the App accesses the following data through Atlass
 | **Group member lists** | To generate @mentions for all members of a selected group |
 | **User display names** | To show member previews before generating mentions |
 | **User account IDs** | To create properly formatted @mention references |
+| **Issue context** | To create comments on the selected Jira issue |
 
 ### What We Do NOT Collect
 - We do not collect or store any personal data
 - We do not track user behavior or analytics
 - We do not use cookies or similar tracking technologies
-- We do not access content of your Confluence pages or Jira issues beyond what is necessary for the App's core functionality
+- We do not access content of your Jira issues beyond what is necessary for the App's core functionality
+- We do not read or store the content of existing comments
 
 ---
 
@@ -65,7 +67,7 @@ We do not share, sell, rent, or otherwise disclose your data to any third partie
 The only data processing that occurs is:
 - Reading group and user information from Atlassian's APIs
 - Displaying that information within the App's user interface
-- Generating @mention markup that you choose to insert into your content
+- Generating @mention markup that you choose to insert into your comments
 
 ---
 
@@ -147,9 +149,9 @@ We encourage you to review this Privacy Policy periodically to stay informed abo
 
 If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us:
 
-**Octothorpe OÜ**  
-Email: info@octothorpe.ee  
-Website: https://octothorpe.ee  
+**Octothorpe OÜ**
+Email: info@octothorpe.ee
+Website: https://octothorpe.ee
 
 We aim to respond to all inquiries within 30 days.
 
@@ -159,7 +161,7 @@ We aim to respond to all inquiries within 30 days.
 
 Please note that Atlassian Pty Ltd operates the Atlassian Marketplace and the Forge platform on which this App runs. Atlassian has its own privacy practices, which are described in [Atlassian's Privacy Policy](https://www.atlassian.com/legal/privacy-policy).
 
-This Privacy Policy applies only to the Group Notification App developed by Octothorpe OÜ and does not cover Atlassian's data practices.
+This Privacy Policy applies only to the Group Notification for Jira App developed by Octothorpe OÜ and does not cover Atlassian's data practices.
 
 ---
 
