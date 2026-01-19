@@ -71,17 +71,6 @@ Groups with more than 1,000 members are truncated. The app displays a warning an
 
 ---
 
-## Supported Group Types
-
-Group Notification works with any group in your Jira Cloud instance:
-
-- ✓ Manually created groups
-- ✓ LDAP-synced groups
-- ✓ Active Directory groups
-- ✓ SCIM-provisioned groups
-
----
-
 ## Frequently Asked Questions
 
 ### Which Atlassian products are supported?
