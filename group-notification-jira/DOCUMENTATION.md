@@ -163,6 +163,7 @@ For full details, see our [Privacy Policy](PRIVACY_POLICY.md).
 
 Having issues or questions?
 
+- **GitHub Issues:** [Report a bug or request a feature](https://github.com/octothorpe-ou/group-notification-jira-support/issues)
 - **Email:** info@octothorpe.ee
 - **Website:** https://octothorpe.ee
 
@@ -174,5 +175,4 @@ We typically respond within 1-2 business days.
 
 | Version | Date | Changes |
 |---------|------|---------|
-| 2.0.0 | January 2026 | Production release with optional messages and group labels |
-| 1.0.0 | January 2026 | Initial release |
+| 1.0.0 | January 2026 | Initial release with optional messages and group labels |
