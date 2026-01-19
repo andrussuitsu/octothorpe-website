@@ -163,7 +163,9 @@ For full details, see our [Privacy Policy](PRIVACY_POLICY.md).
 
 Having issues or questions?
 
-- **GitHub Issues:** [Report a bug or request a feature](https://github.com/octothorpe-ou/group-notification-jira-support/issues)
+- **Report a Bug:** [Create a bug report](https://github.com/octothorpe-ou/group-notification-jira-support/issues/new?template=bug_report.md)
+- **Request a Feature:** [Create a feature request](https://github.com/octothorpe-ou/group-notification-jira-support/issues/new?template=feature_request.md)
+- **Browse Issues:** [View all issues](https://github.com/octothorpe-ou/group-notification-jira-support/issues)
 - **Email:** info@octothorpe.ee
 - **Website:** https://octothorpe.ee
 
